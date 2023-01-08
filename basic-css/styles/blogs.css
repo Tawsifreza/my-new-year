@@ -1,0 +1,24 @@
+
+.header{
+    height: 200px;
+    background-image: url('../styles/boss.jpg');
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-repeat: no-repeat;
+    color: white;
+    background-position:center;
+    background-color: gray;
+    background-blend-mode: multiply;
+}
+div{
+    background-color: aqua;
+    border: 10px solid black;
+    border-radius: 10px;
+    padding:40px;
+    margin: 20px 10px 30px 10px;
+}
+li{
+    border: 5px solid yellowgreen;
+    text-align: center;
+    width: 200px;
+}
